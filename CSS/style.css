@@ -5,8 +5,9 @@ body {
 }
 header h1 { 
     color:black;
-   
-   
+   text-align:center;
+   text-align:center;border: 3px blue inset;
+box-shadow: 6px 6px 0px black  ;
   
 }
 p{
@@ -28,14 +29,13 @@ td{
 }
 
 a{
-    position: absolute; 
+   
 top: 10px; 
 left:10px;
 }
 main{
     text-align:left;
-  text-align:center;border: 3px blue inset;
-box-shadow: 6px 6px 0px black  ;
+  ;
 }
 
 @font-face { /* Définition d'une nouvelle police nommée LearningCurveProRegular */

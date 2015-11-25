@@ -47,3 +47,8 @@ h1 /* Utilisation de la police qu'on vient de définir sur les titres */
 {
     font-family: 'LearningCurveProRegular', Arial, serif;
 }
+main{ border: 3px blue inset;
+box-shadow: 6px 6px 0px black;
+
+}
+    

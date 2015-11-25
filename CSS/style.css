@@ -37,6 +37,7 @@ main{
   text-align:center;border: 3px blue inset;
 box-shadow: 6px 6px 0px black  ;
 }
+
 @font-face { /* Définition d'une nouvelle police nommée LearningCurveProRegular */
     font-family: 'LearningCurveProRegular';
     src: url("LearningCurveDashed_OT-webfont.eot");
@@ -49,6 +50,7 @@ box-shadow: 6px 6px 0px black  ;
 h1 /* Utilisation de la police qu'on vient de définir sur les titres */
 {
     font-family: 'LearningCurveProRegular', Arial, serif;
+  
 }
 
     

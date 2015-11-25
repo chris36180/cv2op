@@ -3,30 +3,20 @@ body {
 	background-attachment:fixed;
 	clear:both;
 }
-header h1{ 
+header h1 { 
     color:black;
    text-align:center;
   
 }
+p{
+     color:black;
+   text-align:center;
+}
 h1{
     color:#8C7672;
 }
-.conteneur{
-	width:100%;
-	max-width:960px;
-	padding:10px;
-	margin:15px;
-	margin:auto;
-}
-.colonne{
-	display:inline-block;
-	margin:10px;
-	width:30.5%;
-	vertical-align:top;
-}
-.colonne h1{
-	text-align:left;
-}
+
+
 td{
 	padding-top:4px;
 	text-align:justify;
@@ -43,4 +33,7 @@ right: 10px;
 }
 main{
     text-align:left;
+}
+footer {
+    text-align:left
 }

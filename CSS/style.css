@@ -49,7 +49,7 @@ h1 /* Utilisation de la police qu'on vient de définir sur les titres */
 }
 main{ border: 3px blue inset;
 box-shadow: 6px 6px 0px black;
-position: absolute; 
+position:absolute;
 top: 300px; 
 right: 10px;
 

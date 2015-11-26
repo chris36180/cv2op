@@ -5,7 +5,7 @@ http://htmlpreview.github.io/?https://github.com/chris36180/cv2op/master/cv2.htm
 
 <html>
 	<head>
-		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<
 		<title></title>
 	</head>
 	<body>
@@ -13,7 +13,7 @@ http://htmlpreview.github.io/?https://github.com/chris36180/cv2op/master/cv2.htm
 			
 		</div>
 		
-		<img src="../Capture.JPG" />
+		<img src="../Capture.JPG" alt="Photo de chris"  />
 	</body>
 	<footer></footer>
 </html>
